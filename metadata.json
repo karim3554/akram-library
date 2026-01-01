@@ -1,0 +1,9 @@
+{
+  "name": "akram _library",
+  "description": "An advanced digital library interface powered by Open Library and Gemini AI, offering book search, author exploration, and AI-driven literary recommendations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
